@@ -7,8 +7,7 @@ Matricula: 927202
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
-
+![print](images/inspecao-rede.png)
 
 
 ## Orientações sobre Linguagem MarkDown
